@@ -1,0 +1,28 @@
+{
+	"name": "p2made/p2y2-iso-tables",
+	"description": "Country, language, & locale codes for Yii2",
+	"type": "yii2-extension",
+	"keywords": [
+		"yii2", "yii", "extension", "PHP",
+		"asset", "bundle", "widget"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Pedro Plowman",
+			"email": "p2opensource@gmail.com",
+			"homepage": "https://github.com/p2made"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/p2made/p2y2-iso-tables/issues?state=open",
+		"source": "https://github.com/p2made/p2y2-iso-tables"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable" : true,
+	"autoload": {
+		"psr-4": {
+			"p2m\\contacts\\": ""
+		}
+	}
+}
