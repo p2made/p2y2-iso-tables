@@ -22,7 +22,7 @@
 	"prefer-stable" : true,
 	"autoload": {
 		"psr-4": {
-			"p2m\\contacts\\": ""
+			"p2m\\iso\\": ""
 		}
 	}
 }
