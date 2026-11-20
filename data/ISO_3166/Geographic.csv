@@ -1,0 +1,251 @@
+Alpha-3,GeoNameID,Capital,Principal_TimeZone,Global_Code,Continent_Code,Region_Code,Sub_region_Code,Intermediate_Region_Code,Area KM2
+ABW,3577279,Oranjestad,America/Aruba,1,NA,19,419,29,193
+AFG,1149361,Kabul,Asia/Kabul,1,AS,142,34,,647500
+AGO,3351879,Luanda,Africa/Luanda,1,AF,2,202,17,1246700
+AIA,3573511,The Valley,America/Anguilla,1,NA,19,419,29,102
+ALA,661882,Mariehamn,Europe/Mariehamn,1,EU,150,154,,
+ALB,783754,Tirana,Europe/Tirane,1,EU,150,39,,28748
+AND,3041565,Andorra la Vella,Europe/Andorra,1,EU,150,39,,468
+ARE,290557,Abu Dhabi,Asia/Dubai,1,AS,142,145,,82880
+ARG,3865483,Buenos Aires,America/Argentina/Buenos_Aires,1,SA,19,419,5,2766890
+ARM,174982,Yerevan,Asia/Yerevan,1,AS,142,145,,29800
+ASM,5880801,Pago Pago,Pacific/Pago_Pago,1,OC,9,61,,199
+ATA,6697173,,,1,AN,,,,14000000
+ATF,1546748,Port-aux-Francais,Indian/Kerguelen,1,AN,2,202,14,
+ATG,3576396,St. John's,America/Antigua,1,NA,19,419,29,443
+AUS,2077456,Canberra,Australia/Sydney,1,OC,9,53,,7686850
+AUT,2782113,Vienna,Europe/Vienna,1,EU,150,155,,83858
+AZE,587116,Baku,Asia/Baku,1,AS,142,145,,86600
+BDI,433561,Gitega,Africa/Bujumbura,1,AF,2,202,14,27830
+BEL,2802361,Brussels,Europe/Brussels,1,EU,150,155,,30510
+BEN,2395170,Porto-Novo,Africa/Porto-Novo,1,AF,2,202,11,112620
+BES,7626844,,America/Kralendijk,1,NA,19,419,29,
+BFA,2361809,Ouagadougou,Africa/Ouagadougou,1,AF,2,202,11,274200
+BGD,1210997,Dhaka,Asia/Dhaka,1,AS,142,34,,144000
+BGR,732800,Sofia,Europe/Sofia,1,EU,150,151,,110910
+BHR,290291,Manama,Asia/Bahrain,1,AS,142,145,,665
+BHS,3572887,Nassau,America/Nassau,1,NA,19,419,29,13940
+BIH,3277605,Sarajevo,Europe/Sarajevo,1,EU,150,39,,51129
+BLM,3578476,Gustavia,America/St_Barthelemy,1,NA,19,419,29,21
+BLR,630336,Minsk,Europe/Minsk,1,EU,150,151,,207600
+BLZ,3582678,Belmopan,America/Belize,1,NA,19,419,13,22966
+BMU,3573345,Hamilton,Atlantic/Bermuda,1,NA,19,21,,53
+BOL,3923057,Sucre,America/La_Paz,1,SA,19,419,5,1098580
+BRA,3469034,Brasilia,America/Sao_Paulo,1,SA,19,419,5,8511965
+BRB,3374084,Bridgetown,America/Barbados,1,NA,19,419,29,431
+BRN,1820814,Bandar Seri Begawan,Asia/Brunei,1,AS,142,35,,5770
+BTN,1252634,Thimphu,Asia/Thimphu,1,AS,142,34,,47000
+BVT,3371123,,Europe/Oslo,1,AN,19,419,5,
+BWA,933860,Gaborone,Africa/Gaborone,1,AF,2,202,18,600370
+CAF,239880,Bangui,Africa/Bangui,1,AF,2,202,17,622984
+CAN,6251999,Ottawa,America/Toronto,1,NA,19,21,,9984670
+CCK,1547376,West Island,Indian/Cocos,1,AS,9,53,,14
+CHE,2658434,Bern,Europe/Zurich,1,EU,150,155,,41290
+CHL,3895114,Santiago,America/Santiago,1,SA,19,419,5,756950
+CHN,1814991,Beijing,Asia/Shanghai,1,AS,142,30,,9596960
+CIV,2287781,Yamoussoukro,Africa/Abidjan,1,AF,2,202,11,322460
+CMR,2233387,Yaounde,Africa/Douala,1,AF,2,202,17,475440
+COD,203312,Kinshasa,Africa/Kinshasa,1,AF,2,202,17,2345410
+COG,2260494,Brazzaville,Africa/Brazzaville,1,AF,2,202,17,342000
+COK,1899402,Avarua,Pacific/Rarotonga,1,OC,9,61,,240
+COL,3686110,Bogota,America/Bogota,1,SA,19,419,5,1138910
+COM,921929,Moroni,Indian/Comoro,1,AF,2,202,14,2170
+CPV,3374766,Praia,Atlantic/Cape_Verde,1,AF,2,202,11,4033
+CRI,3624060,San Jose,America/Costa_Rica,1,NA,19,419,13,51100
+CUB,3562981,Havana,America/Havana,1,NA,19,419,29,110860
+CUW,7626836,Willemstad,America/Curacao,1,NA,19,419,29,444
+CXR,2078138,Flying Fish Cove,Indian/Christmas,1,OC,9,53,,135
+CYM,3580718,George Town,America/Cayman,1,NA,19,419,29,262
+CYP,146669,Nicosia,Asia/Nicosia,1,EU,142,145,,9250
+CZE,3077311,Prague,Europe/Prague,1,EU,150,151,,78866
+DEU,2921044,Berlin,Europe/Berlin,1,EU,150,155,,357021
+DJI,223816,Djibouti,Africa/Djibouti,1,AF,2,202,14,23000
+DMA,3575830,Roseau,America/Dominica,1,NA,19,419,29,754
+DNK,2623032,Copenhagen,Europe/Copenhagen,1,EU,150,154,,43094
+DOM,3508796,Santo Domingo,America/Santo_Domingo,1,NA,19,419,29,48730
+DZA,2589581,Algiers,Africa/Algiers,1,AF,2,15,,2381740
+ECU,3658394,Quito,America/Guayaquil,1,SA,19,419,5,283560
+EGY,357994,Cairo,Africa/Cairo,1,AF,2,15,,1001450
+ERI,338010,Asmara,Africa/Asmara,1,AF,2,202,14,121320
+ESH,2461445,El-Aaiun,Africa/El_Aaiun,1,AF,2,15,,266000
+ESP,2510769,Madrid,Europe/Madrid,1,EU,150,39,,504782
+EST,453733,Tallinn,Europe/Tallinn,1,EU,150,154,,45226
+ETH,337996,Addis Ababa,Africa/Addis_Ababa,1,AF,2,202,14,1127127
+FIN,660013,Helsinki,Europe/Helsinki,1,EU,150,154,,337030
+FJI,2205218,Suva,Pacific/Fiji,1,OC,9,54,,18270
+FLK,3474414,Stanley,Atlantic/Stanley,1,SA,19,419,5,12173
+FRA,3017382,Paris,Europe/Paris,1,EU,150,155,,547030
+FRO,2622320,Torshavn,Atlantic/Faroe,1,EU,150,154,,1399
+FSM,2081918,Palikir,Pacific/Pohnpei,1,OC,9,57,,702
+GAB,2400553,Libreville,Africa/Libreville,1,AF,2,202,17,267667
+GBR,2635167,London,Europe/London,1,EU,150,154,,244820
+GEO,614540,Tbilisi,Asia/Tbilisi,1,AS,142,145,,69700
+GGY,3042362,St Peter Port,Europe/Guernsey,1,EU,150,154,,78
+GHA,2300660,Accra,Africa/Accra,1,AF,2,202,11,239460
+GIB,2411586,Gibraltar,Europe/Gibraltar,1,EU,150,39,,7
+GIN,2420477,Conakry,Africa/Conakry,1,AF,2,202,11,245857
+GLP,3579143,Basse-Terre,America/Guadeloupe,1,NA,19,419,29,
+GMB,2413451,Banjul,Africa/Banjul,1,AF,2,202,11,11300
+GNB,2372248,Bissau,Africa/Bissau,1,AF,2,202,11,36120
+GNQ,2309096,Ciudad de la Paz,Africa/Malabo,1,AF,2,202,17,28051
+GRC,390903,Athens,Europe/Athens,1,EU,150,39,,131940
+GRD,3580239,St. George's,America/Grenada,1,NA,19,419,29,344
+GRL,3425505,Nuuk,America/Nuuk,1,NA,19,21,,2166086
+GTM,3595528,Guatemala City,America/Guatemala,1,NA,19,419,13,108890
+GUF,3381670,Cayenne,America/Cayenne,1,SA,19,419,5,
+GUM,4043988,Hagatna,Pacific/Guam,1,OC,9,57,,549
+GUY,3378535,Georgetown,America/Guyana,1,SA,19,419,5,214970
+HKG,1819730,Hong Kong,Asia/Hong_Kong,1,AS,142,30,,1092
+HMD,1547314,,Indian/Kerguelen,1,AN,9,53,,
+HND,3608932,Tegucigalpa,America/Tegucigalpa,1,NA,19,419,13,112090
+HRV,3202326,Zagreb,Europe/Zagreb,1,EU,150,39,,56542
+HTI,3723988,Port-au-Prince,America/Port-au-Prince,1,NA,19,419,29,27750
+HUN,719819,Budapest,Europe/Budapest,1,EU,150,151,,93030
+IDN,1643084,Jakarta,Asia/Jakarta,1,AS,142,35,,1919440
+IMN,3042225,Douglas,Europe/Isle_of_Man,1,EU,150,154,,572
+IND,1269750,New Delhi,Asia/Kolkata,1,AS,142,34,,3287590
+IOT,1282588,Diego Garcia,Indian/Chagos,1,AS,2,202,14,60
+IRL,2963597,Dublin,Europe/Dublin,1,EU,150,154,,70280
+IRN,130758,Tehran,Asia/Tehran,1,AS,142,34,,1648000
+IRQ,99237,Baghdad,Asia/Baghdad,1,AS,142,145,,437072
+ISL,2629691,Reykjavik,Atlantic/Reykjavik,1,EU,150,154,,103000
+ISR,294640,Jerusalem,Asia/Jerusalem,1,AS,142,145,,20770
+ITA,3175395,Rome,Europe/Rome,1,EU,150,39,,301230
+JAM,3489940,Kingston,America/Jamaica,1,NA,19,419,29,10991
+JEY,3042142,Saint Helier,Europe/Jersey,1,EU,150,154,,116
+JOR,248816,Amman,Asia/Amman,1,AS,142,145,,92300
+JPN,1861060,Tokyo,Asia/Tokyo,1,AS,142,30,,377835
+KAZ,1522867,Astana,Asia/Almaty,1,AS,142,143,,2717300
+KEN,192950,Nairobi,Africa/Nairobi,1,AF,2,202,14,582650
+KGZ,1527747,Bishkek,Asia/Bishkek,1,AS,142,143,,198500
+KHM,1831722,Phnom Penh,Asia/Phnom_Penh,1,AS,142,35,,181040
+KIR,4030945,Tarawa,Pacific/Tarawa,1,OC,9,57,,811
+KNA,3575174,Basseterre,America/St_Kitts,1,NA,19,419,29,261
+KOR,1835841,Seoul,Asia/Seoul,1,AS,142,30,,98480
+KWT,285570,Kuwait City,Asia/Kuwait,1,AS,142,145,,17820
+LAO,1655842,Vientiane,Asia/Vientiane,1,AS,142,35,,236800
+LBN,272103,Beirut,Asia/Beirut,1,AS,142,145,,10400
+LBR,2275384,Monrovia,Africa/Monrovia,1,AF,2,202,11,111370
+LBY,2215636,Tripoli,Africa/Tripoli,1,AF,2,15,,1759540
+LCA,3576468,Castries,America/St_Lucia,1,NA,19,419,29,616
+LIE,3042058,Vaduz,Europe/Vaduz,1,EU,150,155,,160
+LKA,1227603,Colombo,Asia/Colombo,1,AS,142,34,,65610
+LSO,932692,Maseru,Africa/Maseru,1,AF,2,202,18,30355
+LTU,597427,Vilnius,Europe/Vilnius,1,EU,150,154,,65200
+LUX,2960313,Luxembourg,Europe/Luxembourg,1,EU,150,155,,2586
+LVA,458258,Riga,Europe/Riga,1,EU,150,154,,64589
+MAC,1821275,Macao,Asia/Macau,1,AS,142,30,,254
+MAF,3578421,Marigot,America/Marigot,1,NA,19,419,29,53
+MAR,2542007,Rabat,Africa/Casablanca,1,AF,2,15,,446550
+MCO,2993457,Monaco,Europe/Monaco,1,EU,150,155,,2
+MDA,617790,Chisinau,Europe/Chisinau,1,EU,150,151,,33843
+MDG,1062947,Antananarivo,Indian/Antananarivo,1,AF,2,202,14,587040
+MDV,1282028,Male,Indian/Maldives,1,AS,142,34,,300
+MEX,3996063,Mexico City,America/Mexico_City,1,NA,19,419,13,1972550
+MHL,2080185,Majuro,Pacific/Majuro,1,OC,9,57,,181
+MKD,718075,Skopje,Europe/Skopje,1,EU,150,39,,25333
+MLI,2453866,Bamako,Africa/Bamako,1,AF,2,202,11,1240000
+MLT,2562770,Valletta,Europe/Malta,1,EU,150,39,,316
+MMR,1327865,Nay Pyi Taw,Asia/Yangon,1,AS,142,35,,678500
+MNE,3194884,Podgorica,Europe/Podgorica,1,EU,150,39,,14026
+MNG,2029969,Ulaanbaatar,Asia/Ulaanbaatar,1,AS,142,30,,1565000
+MNP,4041468,Saipan,Pacific/Saipan,1,OC,9,57,,477
+MOZ,1036973,Maputo,Africa/Maputo,1,AF,2,202,14,801590
+MRT,2378080,Nouakchott,Africa/Nouakchott,1,AF,2,202,11,1030700
+MSR,3578097,Plymouth,America/Montserrat,1,NA,19,419,29,102
+MTQ,3570311,Fort-de-France,America/Martinique,1,NA,19,419,29,
+MUS,934292,Port Louis,Indian/Mauritius,1,AF,2,202,14,2040
+MWI,927384,Lilongwe,Africa/Blantyre,1,AF,2,202,14,118480
+MYS,1733045,Kuala Lumpur,Asia/Kuala_Lumpur,1,AS,142,35,,329750
+MYT,1024031,Mamoudzou,Indian/Mayotte,1,AF,2,202,14,374
+NAM,3355338,Windhoek,Africa/Windhoek,1,AF,2,202,18,825418
+NCL,2139685,Noumea,Pacific/Noumea,1,OC,9,54,,19060
+NER,2440476,Niamey,Africa/Niamey,1,AF,2,202,11,1267000
+NFK,2155115,Kingston,Pacific/Norfolk,1,OC,9,53,,
+NGA,2328926,Abuja,Africa/Lagos,1,AF,2,202,11,923768
+NIC,3617476,Managua,America/Managua,1,NA,19,419,13,129494
+NIU,4036232,Alofi,Pacific/Niue,1,OC,9,61,,260
+NLD,2750405,Amsterdam,Europe/Amsterdam,1,EU,150,155,,41526
+NOR,3144096,Oslo,Europe/Oslo,1,EU,150,154,,324220
+NPL,1282988,Kathmandu,Asia/Kathmandu,1,AS,142,34,,140800
+NRU,2110425,Yaren,Pacific/Nauru,1,OC,9,57,,21
+NZL,2186224,Wellington,Pacific/Auckland,1,OC,9,53,,268680
+OMN,286963,Muscat,Asia/Muscat,1,AS,142,145,,212460
+PAK,1168579,Islamabad,Asia/Karachi,1,AS,142,34,,803940
+PAN,3703430,Panama City,America/Panama,1,NA,19,419,13,78200
+PCN,4030699,Adamstown,Pacific/Pitcairn,1,OC,9,61,,47
+PER,3932488,Lima,America/Lima,1,SA,19,419,5,1285220
+PHL,1694008,Manila,Asia/Manila,1,AS,142,35,,300000
+PLW,1559582,Melekeok,Pacific/Palau,1,OC,9,57,,458
+PNG,2088628,Port Moresby,Pacific/Port_Moresby,1,OC,9,54,,462840
+POL,798544,Warsaw,Europe/Warsaw,1,EU,150,151,,312685
+PRI,4566966,San Juan,America/Puerto_Rico,1,NA,19,419,29,9104
+PRK,1873107,Pyongyang,Asia/Pyongyang,1,AS,142,30,,120540
+PRT,2264397,Lisbon,Europe/Lisbon,1,EU,150,39,,92391
+PRY,3437598,Asuncion,America/Asuncion,1,SA,19,419,5,406750
+PSE,6254930,East Jerusalem,Asia/Hebron,1,AS,142,145,,5970
+PYF,4030656,Papeete,Pacific/Tahiti,1,OC,9,61,,4167
+QAT,289688,Doha,Asia/Qatar,1,AS,142,145,,11437
+REU,935317,Saint-Denis,Indian/Reunion,1,AF,2,202,14,2517
+ROU,798549,Bucharest,Europe/Bucharest,1,EU,150,151,,237500
+RUS,2017370,Moscow,Europe/Moscow,1,EU,150,151,,17100000
+RWA,49518,Kigali,Africa/Kigali,1,AF,2,202,14,26338
+SAU,102358,Riyadh,Asia/Riyadh,1,AS,142,145,,1960582
+SDN,366755,Khartoum,Africa/Khartoum,1,AF,2,15,,1861484
+SEN,2245662,Dakar,Africa/Dakar,1,AF,2,202,11,196190
+SGP,1880251,Singapore,Asia/Singapore,1,AS,142,35,,693
+SGS,3474415,Grytviken,Atlantic/South_Georgia,1,AN,19,419,5,
+SHN,3370751,Jamestown,Atlantic/St_Helena,1,AF,2,202,11,410
+SJM,607072,Longyearbyen,Arctic/Longyearbyen,1,EU,150,154,,62049
+SLB,2103350,Honiara,Pacific/Guadalcanal,1,OC,9,54,,28450
+SLE,2403846,Freetown,Africa/Freetown,1,AF,2,202,11,71740
+SLV,3585968,San Salvador,America/El_Salvador,1,NA,19,419,13,21040
+SMR,3168068,San Marino,Europe/San_Marino,1,EU,150,39,,61
+SOM,51537,Mogadishu,Africa/Mogadishu,1,AF,2,202,14,637657
+SPM,3424932,Saint-Pierre,America/Miquelon,1,NA,19,21,,242
+SRB,6290252,Belgrade,Europe/Belgrade,1,EU,150,39,,88361
+SSD,7909807,Juba,Africa/Juba,1,AF,2,202,14,644329
+STP,2410758,Sao Tome,Africa/Sao_Tome,1,AF,2,202,17,1001
+SUR,3382998,Paramaribo,America/Paramaribo,1,SA,19,419,5,163270
+SVK,3057568,Bratislava,Europe/Bratislava,1,EU,150,151,,48845
+SVN,3190538,Ljubljana,Europe/Ljubljana,1,EU,150,39,,20273
+SWE,2661886,Stockholm,Europe/Stockholm,1,EU,150,154,,449964
+SWZ,934841,Mbabane,Africa/Mbabane,1,AF,2,202,18,17363
+SXM,7609695,Philipsburg,America/Lower_Princes,1,NA,19,419,29,34
+SYC,241170,Victoria,Indian/Mahe,1,AF,2,202,14,455
+SYR,163843,Damascus,Asia/Damascus,1,AS,142,145,,185180
+TCA,3576916,Cockburn Town,America/Grand_Turk,1,NA,19,419,29,430
+TCD,2434508,N'Djamena,Africa/Ndjamena,1,AF,2,202,17,1284000
+TGO,2363686,Lome,Africa/Lome,1,AF,2,202,11,56785
+THA,1605651,Bangkok,Asia/Bangkok,1,AS,142,35,,514000
+TJK,1220409,Dushanbe,Asia/Dushanbe,1,AS,142,143,,143100
+TKL,4031074,,Pacific/Fakaofo,1,OC,9,61,,10
+TKM,1218197,Ashgabat,Asia/Ashgabat,1,AS,142,143,,488100
+TLS,1966436,Dili,Asia/Dili,1,OC,142,35,,15007
+TON,4032283,Nuku'alofa,Pacific/Tongatapu,1,OC,9,61,,748
+TTO,3573591,Port of Spain,America/Port_of_Spain,1,NA,19,419,29,5128
+TUN,2464461,Tunis,Africa/Tunis,1,AF,2,15,,163610
+TUR,298795,Ankara,Europe/Istanbul,1,AS,142,145,,780580
+TUV,2110297,Funafuti,Pacific/Funafuti,1,OC,9,61,,26
+TWN,1668284,Taipei,Asia/Taipei,,AS,142,30,,35980
+TZA,149590,Dodoma,Africa/Dar_es_Salaam,1,AF,2,202,14,945087
+UGA,226074,Kampala,Africa/Kampala,1,AF,2,202,14,236040
+UKR,690791,Kyiv,Europe/Kyiv,1,EU,150,151,,603700
+UMI,5854968,,,1,OC,9,57,,
+URY,3439705,Montevideo,America/Montevideo,1,SA,19,419,5,176220
+USA,6252001,Washington,America/New_York,1,NA,19,21,,9629091
+UZB,1512440,Tashkent,Asia/Tashkent,1,AS,142,143,,447400
+VAT,3164670,Vatican City,Europe/Vatican,1,EU,150,39,,0
+VCT,3577815,Kingstown,America/St_Vincent,1,NA,19,419,29,389
+VEN,3625428,Caracas,America/Caracas,1,SA,19,419,5,912050
+VGB,3577718,Road Town,America/Tortola,1,NA,19,419,29,153
+VIR,4796775,Charlotte Amalie,America/St_Thomas,1,NA,19,419,29,352
+VNM,1562822,Hanoi,Asia/Ho_Chi_Minh,1,AS,142,35,,329560
+VUT,2134431,Port Vila,Pacific/Efate,1,OC,9,54,,12200
+WLF,4034749,Mata Utu,Pacific/Wallis,1,OC,9,61,,274
+WSM,4034894,Apia,Pacific/Apia,1,OC,9,61,,2944
+XKX,831053,Pristina,Europe/Podgorica,,EU,150,,,10887
+YEM,69543,Sanaa,Asia/Aden,1,AS,142,145,,527970
+ZAF,953987,Pretoria,Africa/Johannesburg,1,AF,2,202,18,1219912
+ZMB,895949,Lusaka,Africa/Lusaka,1,AF,2,202,14,752614
+ZWE,878675,Harare,Africa/Harare,1,AF,2,202,14,390580

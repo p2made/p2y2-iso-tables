@@ -1,0 +1,32 @@
+Region_Code,Parent_Region,Region_Name_en,Region_Name_fr,Region_Name_es,Region_Name_ru,Region_Name_zh,Region_Name_ar
+001,,world,Monde,Mundo,весь мир,世界,العالم
+002,001,Africa,Afrique,África,Африка,非洲,أفريقيا
+003,019,North America,Amérique du Nord,América del Norte,Северная Америка,北美洲,أمريكا الشمالية
+005,019,South America,Amérique du Sud,Sudamérica,Южная Америка,南美洲,أمريكا الجنوبية
+009,001,Oceania,Océanie,Oceanía,Океания,大洋洲,أوقيانوسيا
+011,002,Western Africa,Afrique occidentale,África occidental,Западная Африка,西非,غرب أفريقيا
+013,019,Central America,Amérique centrale,Centroamérica,Центральная Америка,中美洲,أمريكا الوسطى
+014,002,Eastern Africa,Afrique orientale,África oriental,Восточная Африка,东非,شرق أفريقيا
+015,002,Northern Africa,Afrique septentrionale,África septentrional,Северная Африка,北非,شمال أفريقيا
+017,002,Middle Africa,Afrique centrale,África central,Центральная Африка,中非,وسط أفريقيا
+018,002,Southern Africa,Afrique australe,África meridional,Южная Африка,南部非洲,أفريقيا الجنوبية
+019,001,Americas,Amériques,América,Америка,美洲,الأمريكتان
+021,019,Northern America,Amérique septentrionale,Norteamérica,Североамериканский регион,美洲北部,شمال أمريكا
+029,019,Caribbean,Caraïbes,Caribe,Карибы,加勒比地区,الكاريبي
+030,142,Eastern Asia,Asie de l’Est,Asia oriental,Восточная Азия,东亚,شرق آسيا
+034,142,Southern Asia,Asie du Sud,Asia meridional,Южная Азия,南亚,جنوب آسيا
+035,142,Southeast Asia,Asie du Sud-Est,Sudeste asiático,Юго-Восточная Азия,东南亚,جنوب شرق آسيا
+039,150,Southern Europe,Europe du Sud,Europa meridional,Южная Европа,南欧,جنوب أوروبا
+053,009,Australasia,Australasie,Australasia,Австралазия,澳大拉西亚,أسترالاسيا
+054,009,Melanesia,Mélanésie,Melanesia,Меланезия,美拉尼西亚,ميلانيزيا
+057,009,Micronesian Region,région micronésienne,Región de Micronesia,Микронезия,密克罗尼西亚地区,الجزر الميكرونيزية
+061,009,Polynesia,Polynésie,Polinesia,Полинезия,玻利尼西亚,بولينيزيا
+142,001,Asia,Asie,Asia,Азия,亚洲,آسيا
+143,142,Central Asia,Asie centrale,Asia central,Центральная Азия,中亚,وسط آسيا
+145,142,Western Asia,Asie de l’Ouest,Asia occidental,Западная Азия,西亚,غرب آسيا
+150,001,Europe,Europe,Europa,Европа,欧洲,أوروبا
+151,150,Eastern Europe,Europe de l’Est,Europa oriental,Восточная Европа,东欧,شرق أوروبا
+154,150,Northern Europe,Europe du Nord,Europa septentrional,Северная Европа,北欧,شمال أوروبا
+155,150,Western Europe,Europe de l’Ouest,Europa occidental,Западная Европа,西欧,غرب أوروبا
+202,002,Sub-Saharan Africa,Afrique subsaharienne,África subsahariana,Тропическая Африка,撒哈拉以南非洲,أفريقيا جنوب الصحراء الكبرى
+419,019,Latin America,Amérique latine,Latinoamérica,Латинская Америка,拉丁美洲,أمريكا اللاتينية
